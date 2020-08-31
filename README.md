@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is a GitHub profile README. Find out more here https://css-tricks.com/the-github-profile-trick/
+
 <!--
 **nschonni/nschonni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
